@@ -1,0 +1,35 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: black;
+}
+h1{
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+button{
+    margin-left: 610px;
+    margin-top: 50px;
+    padding: 10px;  
+    cursor: pointer;
+    border-radius: 8px;
+    background-color: rgb(177, 209, 236);
+    outline: none;
+    border: 1px solid white;
+
+}
+div{
+    margin-top: 20px;
+    text-align: center;
+    align-items: center;
+
+}
+a{
+    color: rgb(131, 131, 131);
+    text-decoration: none;
+}
+a:hover{
+    color: rgb(159, 224, 240);
+}
